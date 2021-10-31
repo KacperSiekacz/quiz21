@@ -1,0 +1,5 @@
+C:\Users\ja\quiz21\quizconsole\obj\Debug\net5.0\quizconsole.csproj.AssemblyReference.cache
+C:\Users\ja\quiz21\quizconsole\obj\Debug\net5.0\quizconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ja\quiz21\quizconsole\obj\Debug\net5.0\quizconsole.AssemblyInfoInputs.cache
+C:\Users\ja\quiz21\quizconsole\obj\Debug\net5.0\quizconsole.AssemblyInfo.cs
+C:\Users\ja\quiz21\quizconsole\obj\Debug\net5.0\quizconsole.csproj.CoreCompileInputs.cache
