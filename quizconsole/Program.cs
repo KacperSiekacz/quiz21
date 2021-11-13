@@ -2,20 +2,13 @@
 
 namespace quizconsole
 {
-    class Pytanie
+    class Program
     {
-        int ;
-        Pytanie pytanie1;
-        Pytanie pytanie2;
-        Pytanie pytanie3;
-        Pytanie pytanie4;
-        Pytanie pytanie5;
-
-        static void Main(string[]   )
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+
+
+            Console.ReadLine();
         }
-
     }
-
 }
